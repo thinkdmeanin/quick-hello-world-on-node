@@ -1,0 +1,25 @@
+{
+  "name": "quick-hello-world-on-node",
+  "version": "1.0.0",
+  "description": "quick hello world site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkdmeanin/quick-hello-world-on-node.git"
+  },
+  "keywords": [
+    "quick"
+  ],
+  "author": "Joseph Shing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkdmeanin/quick-hello-world-on-node/issues"
+  },
+  "homepage": "https://github.com/thinkdmeanin/quick-hello-world-on-node#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
